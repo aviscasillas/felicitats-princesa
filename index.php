@@ -1,5 +1,3 @@
-<html>
-<body>
-Hello
-</body>
-</html>
+<?php
+header( 'Location: home.html') ;
+?>
