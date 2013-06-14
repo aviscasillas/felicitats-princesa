@@ -1,3 +1,15 @@
 html {
   font-family: "Brush Script MT", cursive;
+  font-size: 14pt;
 }
+
+#content {
+  margin: 0 auto;
+}
+
+a {
+  margin: 10px;
+  padding: 2px;
+  cursor: pointer;
+}
+
