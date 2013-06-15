@@ -4,7 +4,7 @@
     "Sí" => 1,
     "No" => 2
 	);
-	$msg = "A hores d'ara ja deus tenir les teves CROGS color violeta...<br/><br/> Estas contenta?";
-	
+	$msg = "O la la!!!";
+
 	template($msg, $options, 1);
 ?>
