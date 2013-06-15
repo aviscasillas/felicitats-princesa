@@ -2,7 +2,7 @@
 	include "helper.php";
 	$options = [
     "Sí" => 1,
-    "No" => 2,
+    "No" => 2
 	];
 	template("A hores d'ara ja deus tenir les teves CROGS color violeta...<br/><br/> Estas contenta?", $options, 1);
 ?>
