@@ -18,9 +18,22 @@ header {
   text-align: center;
 }
 
-
-
 a {
+  display: block;
+  width: 120px;
+  height: 35px;
+  border-radius: 4px;
+  text-align: center;
+  line-height: 35px;
+  text-decoration: none;
+  font-family: 'Helvetica';
+  font-weight: bold;
+  font-size: 10pt;
+  float: left;
+  margin: 10px 20px;
+}
+
+.button {
   padding: 3px 5px 3px 5px; 
   margin: 5px;
   cursor: pointer;
@@ -40,7 +53,7 @@ a {
 
 
 /*Hover*/
-a:hover {
+.button:hover {
   background-color: #A7ED9E;
   background-image: -o-linear-gradient(90deg , rgb(138,211,129) 0%, rgb(204,237,200) 100%);
   background-image: -moz-linear-gradient(90deg , rgb(138,211,129) 0%, rgb(204,237,200) 100%);
@@ -51,7 +64,7 @@ a:hover {
 
 
 /*Active*/
-a:active {
+.button:active {
   background-color: #5DC34E;
   -moz-box-shadow:inset 0px 0px 5px rgba(26,154,72,1);
   -webkit-box-shadow:inset 0px 0px 5px rgba(26,154,72,1);
