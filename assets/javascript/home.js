@@ -14,7 +14,7 @@ function Home() {
   this.show = function() {
     $.ajax({
       type: 'GET',
-      url: 'templates/' + me.page + '.html',
+      url: 'templates/' + me.page + '.php',
       success: function(data) {
         $('#content').html(data);
         setAction();
