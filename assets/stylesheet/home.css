@@ -5,7 +5,7 @@ body {
   width: 100%;
   margin: 0;
   font-family: "Lucida Console", Monaco, monospace;
-  font-size: 16pt;
+  font-size: 14pt;
 }
 
 header {
@@ -27,7 +27,6 @@ a {
   font-family: 'Helvetica';
   font-weight: bold;
   margin: 10px 20px;
-  padding: 10px;
   cursor: pointer;
 }
 
