@@ -1,8 +1,9 @@
 <?php
 	include "helper.php";
-	$options = new HashMap();
-	$options['Sí'] = 1;
-	$option['No'] = 0;
+	$options = [
+    "Sí" => 1,
+    "No" => 2,
+	];
 	template("A hores d'ara ja deus tenir les teves CROGS color violeta...<br/><br/> Estas contenta?", $options, 1);
 ?>
 <p>
