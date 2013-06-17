@@ -1,15 +1,20 @@
 <?php
 	include "helper.php";
+
+	$msg = "Doncs ja veus! Aquest any he decidit abandonar les fotos, el paper, les cartulines y 
+					el cartró pluma... en temps frikis, regals frikis!!! XD<br/><br/>
+					Has de saber que aquesta sorpresa consisteix en anar 
+					passant pantalles. Has de respondre les preguntes que et faig, 
+					i si arribes al final tindràs premi :).<br/><br/>
+					Cada cop que t'equivoquis tornaràs a aquesta pantalla, 
+					així que estigues atenta! ;P <br/><br/>
+					Tingues present que l'aplicació no guarda res, si refresques la web 
+					començaràs desde 0. <br/><br/>
+					FELICITATS PRINCESA!!!!";
+
 	$options = array(
     "Començar" => 1
 	);
-	$msg = "Doncs ja veus! Aquest any he decidit abandonar el paper, cartulines, 
-					cartró pluma, etc. Imaginació al poder!!! XD<br/><br/>
-					Has de saber que aquesta sorpresa consisteix en anar 
-					passant pantalles responent correctament les preguntes que et faig. 
-					Si arribes al final tindràs premi, i cada cop que t'equivoquis hauràs 
-					de tornar a començar d'es del principi, així que estigues atenta!. <br/><br/>
-					No es guarda res, així que si tanques el navegador i tornes a entrar començaras desde 0.";
-	
+		
 	template($msg, $options, 1);
 ?>

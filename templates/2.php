@@ -4,8 +4,10 @@
     "Sí" => 1,
     "No" => 2
 	);
-	$msg = "Perfecte!! Mencanta que siguis feliç :)<br/>
-  				Però, encara vull que siguis més feliç, i per aquest motiu t'he preparat un altre regal.<br/><br/>
+	$msg = "Genial!! Mencanta que siguis feliç :)<br/><br/>
+  				Però, encara vull que siguis més i més feliç, i com que a pesar de les meves 
+  				cagades segueixes contenta, et guiaré pel camí 
+  				del teu segon regal...<br/><br/>
   				Vols saber on és?";
 
 	template($msg, $options, 1);

@@ -10,9 +10,6 @@
     <title>Felicitats Princesa</title>
   </head>
   <body>
-    <header>
-      <h1>Felicitats Princesa</h1>
-    </header>
     <section id="content"></section>
   </body>
 </html>
