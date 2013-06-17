@@ -6,8 +6,8 @@
     "Font" => 3,
     "Dona" => 4
 	);
-	$msg = "Mencanta ser el teu sol! M'encanta que t'arrambis quan tens fred :).<br/><br/>
-					Això és mereix una pista: El teu regal el podràs trobar en qualsevol moment del dia... ui ui ui, 
+	$msg = "Mencanta ser el teu Sol! M'encanta que vinguis a mi quan tens fred :).<br/><br/>
+					Això es mereix una pista: El teu regal el podràs trobar en qualsevol moment del dia... ui ui ui, 
 					on serà?<br/><br/>
 					Tu ets la meva:";
 
