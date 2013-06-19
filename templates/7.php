@@ -14,7 +14,7 @@
           Ara que dic això, veig que no et vull fer patir més, així que et donaré
           una pista definitiva:<br/>
           El regal està sota un lloc en el que a mi m'agrada molt estar. Ets
-          tnant bona amb mi, que en els moments més durs sempre m'el cedeixes...
+          tant bona amb mi, que en els moments més durs sempre m'el cedeixes...
           <br/><br/>
           On és el regal?";
 
