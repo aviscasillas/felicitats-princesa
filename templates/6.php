@@ -11,7 +11,8 @@
   $msg = "Vida!!! Que faria sense tu? :). <br/><br/>
           En quan al regal, l'has tingut o el tindràs molt i molt a prop
           en algún moment del dia. Encara no saps on es?<br/><br/>
-          Ok, una pregunta més: Quan vam iniciar aquesta bonica i intensa relació?";
+          Ok, una pregunta més:<br/>
+          Quan vam iniciar aquesta bonica i intensa relació?";
 
   template($msg, $options, 3);
 ?>
