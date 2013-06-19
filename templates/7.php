@@ -9,8 +9,9 @@
   );
 
   $msg = "T'he dit mai que t'estimo amb bojeria?<br/>
-          Se que els dies són durs i la rutina sovint s'ens menja però, quan
-          hi penso recordo que et necessito més que l'aire que respiro.<br/><br/>
+          Se que els dies són durs i la rutina sovint s'ens menja però, quan les coses
+          es compliquen i la confusió ens envaeix, és quan penso, miro en perspectiva i
+          recordo que et necessito més que l'aire que respiro.<br/><br/>
           Ara que dic això, veig que no et vull fer patir més, així que et donaré
           una pista definitiva:<br/>
           El regal està sota un lloc en el que a mi m'agrada molt estar. Ets

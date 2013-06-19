@@ -6,7 +6,7 @@
   );
 
   $msg = "Ja ho tens!!! Sota el seient del copi... corre corre, a buscar-lo!!!! :)<br/><br/>
-          Felicitats wapa, epero que t'agradi :)";
+          Felicitats wapa, espero que t'agradi :)";
 
   template($msg, $options, -1);
 ?>
