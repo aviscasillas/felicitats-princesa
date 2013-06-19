@@ -9,8 +9,9 @@
   );
 
   $msg = "Mencanta ser el teu Sol! M'encanta que vinguis a mi quan tens fred :).<br/><br/>
-          Això es mereix una pista: El teu regal el podràs trobar en qualsevol moment del dia... ui ui ui,
-          on serà?<br/><br/>
+          Això es mereix una pista: El teu regal el podràs trobar en qualsevol moment del dia... <br/>
+          Ui ui ui, on serà?<br/><br/>
+          Seguim...
           Tu ets la meva:";
 
   template($msg, $options, 2);
