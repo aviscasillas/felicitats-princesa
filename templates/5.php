@@ -13,5 +13,5 @@
           El regal esta en un lloc tancat, protegit de la pluja però, no de la calor.<br/><br/>
           A part de la lluna per mi també ets:";
 
-  template($msg, $options, 2);
+  template($msg, $options, 1);
 ?>

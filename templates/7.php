@@ -2,16 +2,21 @@
   include "helper.php";
 
   $options = array(
-    "01/11/2007" => 1,
-    "31/12/2007" => 2,
-    "01/12/2007" => 3,
-    "01/12/2008" => 4
+    "A casa" => 1,
+    "Al local de castells" => 2,
+    "Al cotxe" => 3,
+    "A la moto" => 4
   );
 
-  $msg = "Vida!!! Que faria sense tu? :). <br/><br/>
-          En quan al regal, l'has tingut o el tindràs molt i molt a prop
-          en algún moment del dia. Encara no saps on es?<br/><br/>
-          Ok, una pregunta més: Quan vam iniciar aquesta bonica i intensa relació?";
+  $msg = "T'he dit mai que t'estimo amb bojeria?<br/>
+          Se que els dies són durs i la rutina sovint s'ens menja però, quan
+          hi penso recordo que et necessito més que l'aire que respiro.<br/><br/>
+          Ara que dic això, veig que no et vull fer patir més, així que et donaré
+          una pista definitiva:<br/>
+          El regal està sota un lloc en el que a mi m'agrada molt estar. Ets
+          tnant bona amb mi, que en els moments més durs sempre m'el cedeixes...
+          <br/><br/>
+          On és el regal?";
 
   template($msg, $options, 3);
 ?>

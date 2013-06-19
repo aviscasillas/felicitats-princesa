@@ -2,16 +2,16 @@
   include "helper.php";
 
   $options = array(
-    "L'aigua" => 1,
-    "L'amor" => 2,
-    "El carinyo" => 3,
-    "La vida" => 4
+    "01/11/2007" => 1,
+    "31/12/2007" => 2,
+    "01/12/2007" => 3,
+    "01/12/2008" => 4
   );
 
-  $msg = "Sí, tu per mi ets la lluna plena... em dones llum quan tot
-          és fosc i m'ipnotitzes quan et miro.<br/><br/>
-          El regal està en un lloc tancat, protegit de la pluja però, no de la calor.<br/><br/>
-          A a més de la lluna per mi també ets:";
+  $msg = "Vida!!! Que faria sense tu? :). <br/><br/>
+          En quan al regal, l'has tingut o el tindràs molt i molt a prop
+          en algún moment del dia. Encara no saps on es?<br/><br/>
+          Ok, una pregunta més: Quan vam iniciar aquesta bonica i intensa relació?";
 
-  template($msg, $options, 4);
+  template($msg, $options, 3);
 ?>
